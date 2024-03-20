@@ -26,16 +26,16 @@ public class ReadDocsEvent extends WindowAdapter implements ActionListener {
 		
 	}
 	
-	@Override
-	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
-		
-	}
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        // TODO Auto-generated method stub
 
-	@Override
-	public void windowClosing(WindowEvent e) {
-		//rde.dispose();
-	}
+    }
+
+    @Override
+    public void windowClosing(WindowEvent e) {
+        //rde.dispose();
+    }
 	
 	
 	
